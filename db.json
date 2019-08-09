@@ -1,0 +1,39 @@
+{
+  "contacts": [
+    {
+      "id": 0,
+      "name": "Andre Hoffman",
+      "phoneNumber": "+216 54 545 545"
+    },
+    {
+      "id": 1,
+      "name": "Alfred Huff",
+      "phoneNumber": "+216 54 545 545"
+    },
+    {
+      "id": 2,
+      "name": "Angel Dunn",
+      "phoneNumber": "+216 54 545 545"
+    },
+    {
+      "id": 3,
+      "name": "Bertie Evans",
+      "phoneNumber": "+216 54 545 545"
+    },
+    {
+      "id": 4,
+      "name": "Bryan Luna",
+      "phoneNumber": "+216 54 545 545"
+    },
+    {
+      "id": 5,
+      "name": "Brent Car",
+      "phoneNumber": "+216 54 545 545"
+    },
+    {
+      "id": 6,
+      "name": "Bobby Welch",
+      "phoneNumber": "+216 54 545 545"
+    }
+  ]
+}
